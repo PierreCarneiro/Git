@@ -1,2 +1,4 @@
 teste novo de modifica��o
 Esta linha foi modificada no ramo master.
+teste novo de modificao
+Esta linha foi modificada no ramo teste.
